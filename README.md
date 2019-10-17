@@ -27,4 +27,4 @@ se encuentre.
  1. Hacer un programa en java que llene un arreglo con numeros pseudo aleatorios, despues lo ordene usando metodo 
  burbuja, y despues busque un numero introducido por el usuario usando busqueda binaria. 
  
-  [codigo aqui](https://github.com/UrielMendozaG/Binary-Search/blob/master/Binary%20search/src/com/binarysearch   /com/Binarysearch.java)
+ [codigo aqui](https://github.com/UrielMendozaG/Binary-Search/blob/master/Binary%20search/src/com/binarysearch/com/Binarysearch.java)
